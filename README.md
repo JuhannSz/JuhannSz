@@ -5,7 +5,7 @@
 
 
 
-![](https://github.com//JuhannSz/JuhannSz/blob/main/download.gif)
+![]([https://github.com//JuhannSz/JuhannSz/blob/main/download.gif](https://github.com/JuhannSz/JuhannSz/blob/main/download.gif))
 
 
 ### Main skills: 
