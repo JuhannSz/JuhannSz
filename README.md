@@ -5,7 +5,7 @@
 
 
 
-![]([https://github.com/JuhannSz/JuhannSz/blob/main/download.gif)
+![](download.gif)
 
 
 ### Main skills: 
